@@ -1,0 +1,196 @@
+﻿namespace Login_Signup
+{
+    partial class IT_project_info
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            radioButtonName = new RadioButton();
+            radioButtonID = new RadioButton();
+            button1 = new Button();
+            textBox1 = new TextBox();
+            dataGridView1 = new DataGridView();
+            label5 = new Label();
+            pictureBox7 = new PictureBox();
+            label1 = new Label();
+            button2 = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
+            SuspendLayout();
+            // 
+            // radioButtonName
+            // 
+            radioButtonName.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            radioButtonName.AutoSize = true;
+            radioButtonName.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            radioButtonName.Location = new Point(1254, 231);
+            radioButtonName.Name = "radioButtonName";
+            radioButtonName.Size = new Size(110, 27);
+            radioButtonName.TabIndex = 29;
+            radioButtonName.TabStop = true;
+            radioButtonName.Text = "BY Name";
+            radioButtonName.UseVisualStyleBackColor = true;
+            // 
+            // radioButtonID
+            // 
+            radioButtonID.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            radioButtonID.AutoSize = true;
+            radioButtonID.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            radioButtonID.Location = new Point(1116, 232);
+            radioButtonID.Name = "radioButtonID";
+            radioButtonID.Size = new Size(82, 27);
+            radioButtonID.TabIndex = 28;
+            radioButtonID.TabStop = true;
+            radioButtonID.Text = "BY ID";
+            radioButtonID.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            button1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            button1.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            button1.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.Location = new Point(1386, 182);
+            button1.Name = "button1";
+            button1.Size = new Size(90, 45);
+            button1.TabIndex = 27;
+            button1.Text = "Search";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // textBox1
+            // 
+            textBox1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            textBox1.Font = new Font("Times New Roman", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            textBox1.Location = new Point(1116, 182);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(274, 45);
+            textBox1.TabIndex = 26;
+            textBox1.Text = "Search Project";
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.BackgroundColor = SystemColors.Control;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(1, 280);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 51;
+            dataGridView1.Size = new Size(1475, 464);
+            dataGridView1.TabIndex = 25;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.BackColor = Color.Transparent;
+            label5.Font = new Font("Times New Roman", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.Location = new Point(532, 157);
+            label5.Name = "label5";
+            label5.Size = new Size(266, 35);
+            label5.TabIndex = 22;
+            label5.Text = "Project Information";
+            label5.TextAlign = ContentAlignment.TopCenter;
+            // 
+            // pictureBox7
+            // 
+            pictureBox7.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            pictureBox7.BackColor = Color.Transparent;
+            pictureBox7.BackgroundImage = Properties.Resources._FREE___HDconvert_com__WhatsApp_Image_2024_04_30_at_9_28_03_AM__2__removebg_preview;
+            pictureBox7.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox7.Location = new Point(1, 0);
+            pictureBox7.Margin = new Padding(3, 4, 3, 4);
+            pictureBox7.MaximumSize = new Size(400, 192);
+            pictureBox7.Name = "pictureBox7";
+            pictureBox7.Size = new Size(231, 192);
+            pictureBox7.TabIndex = 24;
+            pictureBox7.TabStop = false;
+            // 
+            // label1
+            // 
+            label1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            label1.AutoSize = true;
+            label1.BackColor = Color.Transparent;
+            label1.Font = new Font("Times New Roman", 36F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.Black;
+            label1.Location = new Point(400, 8);
+            label1.Name = "label1";
+            label1.Size = new Size(763, 136);
+            label1.TabIndex = 23;
+            label1.Text = "SPARK VISTA MARKETING\r\n MANAGEMENT SYSTEM";
+            label1.TextAlign = ContentAlignment.TopCenter;
+            // 
+            // button2
+            // 
+            button2.Font = new Font("Times New Roman", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button2.Location = new Point(12, 219);
+            button2.Name = "button2";
+            button2.Size = new Size(118, 39);
+            button2.TabIndex = 40;
+            button2.Text = "Back";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // IT_project_info
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1476, 745);
+            ControlBox = false;
+            Controls.Add(button2);
+            Controls.Add(radioButtonName);
+            Controls.Add(radioButtonID);
+            Controls.Add(button1);
+            Controls.Add(textBox1);
+            Controls.Add(dataGridView1);
+            Controls.Add(label5);
+            Controls.Add(pictureBox7);
+            Controls.Add(label1);
+            MaximizeBox = false;
+            MinimizeBox = false;
+            Name = "IT_project_info";
+            Text = "IT_project_info";
+            WindowState = FormWindowState.Maximized;
+            Load += IT_project_info_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private RadioButton radioButtonName;
+        private RadioButton radioButtonID;
+        private Button button1;
+        private TextBox textBox1;
+        private DataGridView dataGridView1;
+        private Label label5;
+        private PictureBox pictureBox7;
+        private Label label1;
+        private Button button2;
+    }
+}

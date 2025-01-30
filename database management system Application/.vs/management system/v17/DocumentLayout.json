@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni\\projects\\second sem project\\moiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|d:\\uni\\projects\\second sem project\\moiz\\login signup\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\employee_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\employee_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\employee_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\employee_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\manager ( finance).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\manager ( finance).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\manager ( finance).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\manager ( finance).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\project budget information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\project budget information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\admin_personal_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\admin_personal_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\manager dashboard (hr).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\manager dashboard (hr).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\manager dashboard (hr).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\manager dashboard (hr).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\admin_personal_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\admin_personal_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\employee project info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\employee project info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\employee project info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\employee project info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|D:\\uni\\projects\\second sem project\\moiz\\login signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9713BA-7A6B-4614-86BC-7F2F035D8AD4}|Login Signup\\Login Signup.csproj|solutionrelative:login signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Program.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Program.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Program.cs",
+              "RelativeToolTip": "Login Signup\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:21:21.131Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Attendance.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Attendance.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Attendance.cs",
+              "RelativeToolTip": "Login Signup\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:23:30.653Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teams.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Teams.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Teams.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Teams.cs",
+              "RelativeToolTip": "Login Signup\\Teams.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:57:33.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Employee_Dashboard.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Employee_Dashboard.cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\Employee_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:23:06.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee_Dashboard.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Employee_Dashboard.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Employee_Dashboard.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Employee_Dashboard.cs",
+              "RelativeToolTip": "Login Signup\\Employee_Dashboard.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:55:48.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Form1.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Form1.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Form1.cs",
+              "RelativeToolTip": "Login Signup\\Form1.cs",
+              "ViewState": "AQIAAO4AAACAMzMzM9MwwPoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:51:35.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Setting.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Setting.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Setting.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Setting.cs [Design]",
+              "RelativeToolTip": "Login Signup\\Setting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:50:31.839Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Setting.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Setting.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Setting.cs",
+              "RelativeToolTip": "Login Signup\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:50:37.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "manager ( finance).cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\manager ( finance).cs",
+              "RelativeDocumentMoniker": "Login Signup\\manager ( finance).cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\manager ( finance).cs",
+              "RelativeToolTip": "Login Signup\\manager ( finance).cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAmwJYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:50:58.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "manager ( finance).cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\manager ( finance).cs",
+              "RelativeDocumentMoniker": "Login Signup\\manager ( finance).cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\manager ( finance).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:50:55.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project Budget Information.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Project Budget Information.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Project Budget Information.cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\Project Budget Information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:51:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attendance.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Attendance.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Attendance.cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\Attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:45:39.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "manager dashboard (HR).cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\manager dashboard (HR).cs",
+              "RelativeDocumentMoniker": "Login Signup\\manager dashboard (HR).cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\manager dashboard (HR).cs",
+              "RelativeToolTip": "Login Signup\\manager dashboard (HR).cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAuwHgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:45:34.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "manager dashboard (HR).cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\manager dashboard (HR).cs",
+              "RelativeDocumentMoniker": "Login Signup\\manager dashboard (HR).cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\manager dashboard (HR).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:45:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admin_personal_info.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\admin_personal_info.cs",
+              "RelativeDocumentMoniker": "Login Signup\\admin_personal_info.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\admin_personal_info.cs",
+              "RelativeToolTip": "Login Signup\\admin_personal_info.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:33:08.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "admin_personal_info.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\admin_personal_info.cs",
+              "RelativeDocumentMoniker": "Login Signup\\admin_personal_info.cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\admin_personal_info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:33:06.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Form2.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Form2.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Form2.cs",
+              "RelativeToolTip": "Login Signup\\Form2.cs",
+              "ViewState": "AQIAAGgBAAAAAAAAAAAuwHwBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:30:39.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Form2.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Form2.cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:30:02.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee project info.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Employee project info.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Employee project info.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Employee project info.cs",
+              "RelativeToolTip": "Login Signup\\Employee project info.cs",
+              "ViewState": "AQIAAEEAAAAA0MzMzMzovzUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:52:52.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee project info.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Employee project info.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Employee project info.cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\Employee project info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:52:50.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeInfo.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "Login Signup\\EmployeeInfo.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\EmployeeInfo.cs [Design]",
+              "RelativeToolTip": "Login Signup\\EmployeeInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:22:43.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Form1.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Form1.cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:51:32.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeInfo.cs",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "Login Signup\\EmployeeInfo.cs",
+              "ToolTip": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\EmployeeInfo.cs",
+              "RelativeToolTip": "Login Signup\\EmployeeInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:50:13.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Teams.cs [Design]",
+              "DocumentMoniker": "D:\\uni\\projects\\second sem project\\moiz\\Login Signup\\Teams.cs",
+              "RelativeDocumentMoniker": "Login Signup\\Teams.cs",
+              "ToolTip": "C:\\Users\\moizu\\OneDrive\\Desktop\\moiz(ahad\\moiz\\Login Signup\\Teams.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:57:39.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
